@@ -1,6 +1,6 @@
 # JS Queen Attack
 
-this project is all about given the position of two queens on a chess board, indicate whether or not they are positioned so that they can attack each other. In the game of chess, a queen can attack pieces that are on the same row, column, or diagonal.
+In this project, given the position of two queens on a chess board, I indicate whether or not they are positioned so that they can attack each other. This is as done in the game of chess where a queen can attack pieces that are on the same row, column, or diagonal.
 
 ## App
 
@@ -18,18 +18,18 @@ Knowledge about:
 
 - HTML
 - CSS
-- Google chrome
 - JS
+-Web browser
 
 ## Clone project
 
 - To get a local copy up and running follow these simple example steps.
-- Clone this repository with `git@github.com:NoubissiViany/jsQueenAttack.git` using your terminal.
+- Clone this repository with `git@github.com:BoanongJoshua/jsQueenAttack.git` using your terminal.
 - Change to the project directory by entering: cd jsQueenAttack the terminal.
 
 ## steps
 
-- $ git clone `git@github.com:NoubissiViany/jsQueenAttack.git`
+- $ git clone `git@github.com:BoanongJoshua/jsQueenAttack.git`
 - $ `cd jsQueenAttack`
 - $ `git checkout  feature/jsQueenAttack`
 
@@ -39,9 +39,9 @@ Knowledge about:
 
 ## Author
 
-👤 **NoubissiViany**
+👤 **BoanongJoshua**
 
-- GitHub: [@NoubissiViany](git@github.com:NoubissiViany/jsQueenAttack.git)
+- GitHub: [@boanong](git@github.com:NoubissiViany/jsQueenAttack.git)
 
 ## 📝 License
 

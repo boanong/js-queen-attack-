@@ -9,8 +9,8 @@ let noSelected = 0
 const selectedCell = [] 
 
 function reloadPage () {
-  window.location.reload()
-}
+  window.location.reload()  
+}  
 
 for (let i = 0; i < select.length; i++) {
   select[i].addEventListener('click', selectPosition)
