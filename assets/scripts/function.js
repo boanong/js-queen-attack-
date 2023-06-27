@@ -6,7 +6,7 @@ const reset = document.querySelector('.btn2')
 reset.addEventListener('click', reloadPage)
 attack.addEventListener('click', checkAttack)
 let noSelected = 0
-const selectedCell = []
+const selectedCell = [] 
 
 function reloadPage () {
   window.location.reload()
