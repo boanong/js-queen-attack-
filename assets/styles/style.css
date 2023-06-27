@@ -1,4 +1,7 @@
-* {
+
+
+
+  * {
   box-sizing: border-box;
   background-color: whitesmoke;
 }
@@ -43,7 +46,7 @@
   font-size: 18px;
   color: white;
   border-radius: 3px;
-  padding: 8px 30px;  
+  padding: 6px 30px;  
 }
 
 .btn1:hover {
@@ -61,7 +64,6 @@
 
 .btn2:hover {
   cursor: pointer;
-  
 }
 
 .alerterror {
