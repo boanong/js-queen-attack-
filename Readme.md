@@ -4,7 +4,7 @@ In this project, given the position of two queens on a chess board, I indicate w
 
 ## App
 
-![Home](assets/images/home.png)
+![Home](assets/images/read.PNG)
 
 ### Built With
 
@@ -35,7 +35,7 @@ Knowledge about:
 
 ## Start App
 
-- run by opening the index.html in the browser
+- Run by opening the index.html in the browser
 
 ## Author
 
